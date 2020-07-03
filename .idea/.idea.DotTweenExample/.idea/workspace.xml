@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98132e81-d137-45b7-acba-f72ac80c67cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/Tweener/TweenBehaviour/TweenFadeBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/ScriptableObject/ScaleData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBD3A770-660A-456E-8DB8-894556CF3CAD/27/8416f1a5/Ease.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/Other/MoveBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D195DA47-F292-4AA6-AB1F-FC82F421F850/0f/8d0af1ee/Single.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/Tweener/MoveParams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/Other/FadeBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/Tweener/ScaleParams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBD3A770-660A-456E-8DB8-894556CF3CAD/af/a42771a4/Tween.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/MessageBox/MessageBoxBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/Tweener/FadeParams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/Tweener/TweenBehaviour/TweenScaleBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/SidePanel/Move/SidePanelTween.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/Tweener/TweenBehaviour/TweenMoveBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/Button/ButtonFlareBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/SidePanel/Move/IAchievementPanelElementTween.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/ScriptableObject/ShakeData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/SidePanel/SidePanelMoveBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/Button/ButtonJumpBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/Button/ButtonScaleBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/CameraShake/CameraShakeBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBD3A770-660A-456E-8DB8-894556CF3CAD/9f/c4a6e0f5/ShortcutExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/Other/ScaleBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/Tweener/MoveMode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/ScriptableObject/KeyCodeData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBD3A770-660A-456E-8DB8-894556CF3CAD/09/0b10f5c5/Tweener.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBD3A770-660A-456E-8DB8-894556CF3CAD/2c/b7897fe1/ABSSequentiable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/Tweener/TweenParams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Example/Scripts/Other/AddDamage.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Town/Behaviour/MainMenuUIBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Town/Behaviour/MessageUIBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Behaviour/StartGameBehaviourUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/TweenParams.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Behaviour/Tweener/SidePanel/SidePanelTween.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Behaviour/Tweener/MoveParams.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Behaviour/BaseUi.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Behaviour/Tweener/ScaleParams.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/UI/UserInterface.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Behaviour/Tweener/ButtonTween.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Behaviour/SphereTween.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Behaviour/Tweener/SidePanelTween.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Behaviour/SidePanelUIBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Behaviour/StartGameBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Behaviour/Tweener/TweenParams.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Extennsion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Extensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Achievement/AchievementPanelMoveBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Achievement/Move/IAchievementPanelElementTween.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Behaviour/Tweener/TweenMoveButtonBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Behaviour/MainMenuUIBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Behaviour/MessageUIBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Achievement/Move/SidePanelTween.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Achievement/SidePanelMoveBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/ScriptableObject/ScaleData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Behaviour/Tweener/MoveMode.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/ButtonScaleBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/MessageBox/MessageBoxBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Button/ButtonScaleBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Button/JumpButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Button/ButtonJumpBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Tweener/TweenParams.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Tweener/MainMenuUIBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Tweener/TweenMovBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Tweener/MoveBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/ScriptableObject/ShakeData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/CameraShake/CameraShakeBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/SidePanel/SidePanelMoveBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/ScriptableObject/KeyCodInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Other/MoveBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/ScriptableObject/KeyCodeInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Other/AddDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Tweener/ScaleParams.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Tweener/TweenScaleBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Tweener/FadeParams.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Tweener/TweenMoveBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Tweener/TweenFadeBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/ScriptableObject/KeyCodeData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Other/FadeBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Button/ButtonFlareBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Example/Scripts/Other/ScaleBehaviour.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UO3THUbNTiVQD6EGEK5fDdT7kv" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502567" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30005705" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98132e81-d137-45b7-acba-f72ac80c67cf" name="Default Changelist" comment="" />
+      <created>1575213820859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575213820859</updated>
+      <workItem from="1575213823237" duration="10494000" />
+      <workItem from="1575273522239" duration="8642000" />
+      <workItem from="1576752263057" duration="7647000" />
+      <workItem from="1576771333570" duration="8601000" />
+      <workItem from="1593527531073" duration="18427000" />
+      <workItem from="1593606298147" duration="2874000" />
+      <workItem from="1593680117352" duration="1269000" />
+      <workItem from="1593765201751" duration="3089000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1784" height="381" key="GridCell.Tab.0.bottom" timestamp="1593552503774">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="381" key="GridCell.Tab.0.bottom/93.0.1827.1080@93.0.1827.1080" timestamp="1593552503774" />
+    <state width="1784" height="381" key="GridCell.Tab.0.center" timestamp="1593552503774">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="381" key="GridCell.Tab.0.center/93.0.1827.1080@93.0.1827.1080" timestamp="1593552503774" />
+    <state width="1784" height="381" key="GridCell.Tab.0.left" timestamp="1593552503774">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="381" key="GridCell.Tab.0.left/93.0.1827.1080@93.0.1827.1080" timestamp="1593552503774" />
+    <state width="1784" height="381" key="GridCell.Tab.0.right" timestamp="1593552503774">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="381" key="GridCell.Tab.0.right/93.0.1827.1080@93.0.1827.1080" timestamp="1593552503774" />
+    <state width="1784" height="381" key="GridCell.Tab.1.bottom" timestamp="1593552503774">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="381" key="GridCell.Tab.1.bottom/93.0.1827.1080@93.0.1827.1080" timestamp="1593552503774" />
+    <state width="1784" height="381" key="GridCell.Tab.1.center" timestamp="1593552503774">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="381" key="GridCell.Tab.1.center/93.0.1827.1080@93.0.1827.1080" timestamp="1593552503774" />
+    <state width="1784" height="381" key="GridCell.Tab.1.left" timestamp="1593552503774">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="381" key="GridCell.Tab.1.left/93.0.1827.1080@93.0.1827.1080" timestamp="1593552503774" />
+    <state width="1784" height="381" key="GridCell.Tab.1.right" timestamp="1593552503774">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="381" key="GridCell.Tab.1.right/93.0.1827.1080@93.0.1827.1080" timestamp="1593552503774" />
+    <state width="1784" height="381" key="GridCell.Tab.2.bottom" timestamp="1593552503774">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="381" key="GridCell.Tab.2.bottom/93.0.1827.1080@93.0.1827.1080" timestamp="1593552503774" />
+    <state width="1784" height="381" key="GridCell.Tab.2.center" timestamp="1593552503774">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="381" key="GridCell.Tab.2.center/93.0.1827.1080@93.0.1827.1080" timestamp="1593552503774" />
+    <state width="1784" height="381" key="GridCell.Tab.2.left" timestamp="1593552503774">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="381" key="GridCell.Tab.2.left/93.0.1827.1080@93.0.1827.1080" timestamp="1593552503774" />
+    <state width="1784" height="381" key="GridCell.Tab.2.right" timestamp="1593552503774">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="381" key="GridCell.Tab.2.right/93.0.1827.1080@93.0.1827.1080" timestamp="1593552503774" />
+    <state width="1784" height="381" key="GridCell.Tab.3.bottom" timestamp="1593552503774">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="381" key="GridCell.Tab.3.bottom/93.0.1827.1080@93.0.1827.1080" timestamp="1593552503774" />
+    <state width="1784" height="381" key="GridCell.Tab.3.center" timestamp="1593552503774">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="381" key="GridCell.Tab.3.center/93.0.1827.1080@93.0.1827.1080" timestamp="1593552503774" />
+    <state width="1784" height="381" key="GridCell.Tab.3.left" timestamp="1593552503774">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="381" key="GridCell.Tab.3.left/93.0.1827.1080@93.0.1827.1080" timestamp="1593552503774" />
+    <state width="1784" height="381" key="GridCell.Tab.3.right" timestamp="1593552503774">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1784" height="381" key="GridCell.Tab.3.right/93.0.1827.1080@93.0.1827.1080" timestamp="1593552503774" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
